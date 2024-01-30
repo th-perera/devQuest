@@ -1,0 +1,181 @@
+.mainContainer {
+  border: 2px solid rgb(0, 72, 255);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+  }
+  
+  .divider {
+    color: var(--primary, #483387);
+  }
+  
+  .topNavBar {
+    border: 2px solid rgb(0, 72, 255);
+
+    height: 136px;
+  }
+  
+  .navBarTitle {
+    border: 2px solid rgb(0, 72, 255);
+
+    color: var(--secondary, #ff615a);
+    font-family: "Jost";
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    margin-top: 30px;
+  }
+  
+  .innerContainer {
+    border: 2px solid red;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .titleContainer {
+    border: 2px solid red;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 76px;
+    background-image: url("/client/assets/background.png");
+    backdrop-filter: blur(138.5px);
+  }
+  
+  .title {
+    border: 2px solid red;
+    color: var(--secondary, #ff615a);
+    font-family: "Jost";
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: -1.8px;
+    margin-left: 100px;
+    margin-top: 150px;
+  }
+  
+  .btnGetstarted1 {
+    margin-left: 100px;
+    margin-top: 50px;
+    background-color: #483387;
+  }
+  
+  .bannerImage {
+    border: 2px solid red;
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+  
+  .whatWeOffer {
+    border: 2px solid red;
+    margin-top: 50px;
+  }
+  
+  .whatWeOffer p {
+    border: 2px solid red;
+    color: var(--primary, #483387);
+    font-family: "Jost";
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1.46px;
+  }
+  
+  .custom-card-image {
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+  }
+  
+  .custom-card-title {
+    border: 2px solid red;
+    text-align: center;
+    color: var(--gray-900, #212529);
+    font-family: "Jost";
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    margin-top: 25px;
+  }
+  
+  .custom-card-text {
+    border: 2px solid red;
+    color: var(--body-text-base-color, #68717a);
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 30px;
+  }
+  
+  .cardSection {
+    border: 2px solid red;
+    width: auto;
+    margin-bottom: 20px;
+  }
+  
+  .getStartedContainer {
+    border: 2px solid rgb(4, 0, 255);
+    border-radius: 76px;
+    background: rgba(255, 255, 255, 0.46);
+    backdrop-filter: blur(138.5px);
+    height: 400px;
+    background-image: url("/client/assets/background_2.png");
+    margin-top: 100px;
+    margin-bottom: 40px;
+    border: 1px solid rgb(255, 255, 255);
+  }
+  
+  .getStartedContainer-title {
+    border: 2px solid rgb(0, 72, 255);
+    margin-top: 100px;
+    color: var(--primary, #483387);
+    font-family: "Jost";
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1.46px;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .btnGetstarted2 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    background-color: #483387;
+    width: 200px;
+    height: 50px;
+    border-radius: 25px;
+    color: white;
+    font-family: "Jost";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.68px;
+  }
+  
+  .poweredBy {
+    border: 2px solid rgb(0, 72, 255);
+    color: #585858;
+    font-family: Jost;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
